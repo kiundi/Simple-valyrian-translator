@@ -1,0 +1,10 @@
+User input:Hello world
+Translation:Worrld helllor-ys
+User input:My name is Eric
+Translation:Elrirc irs narmel my-ys
+User input:This is a boy
+Translation:Bory ar irs thirs-ys
+User input:Distributed Systems is a an interesting unit
+Translation:Ulnirt irntelrelstirng arn ar irs systelms dirstrirbulteld-ys
+User input:Third year is the most difficult in computer science
+Translation:Scirelncel cormpultelr irn dirffircullt morst thel irs yelarr thirrd-ys
